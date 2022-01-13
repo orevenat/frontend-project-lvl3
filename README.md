@@ -2,7 +2,7 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/orevenat/frontend-project-lvl3/workflows/hexlet-check/badge.svg)](https://github.com/orevenat/frontend-project-lvl3/actions)
-[![github action status](https://github.com/hexlet-boilerplates/webpack-package/workflows/Node%20CI/badge.svg)](https://github.com/hexlet-boilerplates/webpack-package/actions)
+[![github action status](https://github.com/orevenat/frontend-project-lvl3/actions/workflows/nodejs.yml/badge.svg)](https://github.com/orevenat/frontend-project-lvl3/actions/workflows/nodejs.yml)
 [![Code Climate](https://codeclimate.com/github/hexlet-boilerplates/webpack-package/badges/gpa.svg)](https://codeclimate.com/github/hexlet-boilerplates/webpack-package)
 
 ## Setup
